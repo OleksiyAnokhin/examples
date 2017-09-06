@@ -4,7 +4,7 @@ Mine Cetinkaya-Rundel
 
 
 
-*Question: Is it possible to use Star Wars characters' hair color for coloring points on a scatterplot of their heights vs. weights?*
+**Question: Is it possible to use Star Wars characters' hair color for coloring points on a scatterplot of their heights vs. weights?**
 
 Absolutely! Though it takes a bit of tweeaking, and some code you have not yet encountered in class.
 
